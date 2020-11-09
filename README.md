@@ -9,6 +9,6 @@ add to config > custom_components > growatt
 add the following to configuration.yaml:
 
 -platform: growatt</br>
-  name: <name> </br> 
+  name: <custom_name> </br> 
   username: <growatt_account_username></br>
   password: <growatt_account_password></br>
