@@ -1,0 +1,1 @@
+# growatt-custom-component
